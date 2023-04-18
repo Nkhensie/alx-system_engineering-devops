@@ -1,2 +1,2 @@
 #!/bin/bish
-tr -d"Cc"
+tr -d "cC"
